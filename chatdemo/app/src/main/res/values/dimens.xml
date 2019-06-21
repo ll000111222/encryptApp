@@ -1,0 +1,25 @@
+<resources>
+
+    <!--标题栏的高度-->
+    <dimen name="actionbar_height">56dp</dimen>
+
+    <dimen name="base_padding">16dip</dimen>
+    <dimen name="base_margin">16dip</dimen>
+    <dimen name="half_base_margin">8dip</dimen>
+    <dimen name="half_base_padding">8dip</dimen>
+    <dimen name="round_radius">6dip</dimen>
+
+    <dimen name="item_height">56dp</dimen>
+    <dimen name="item_height_48">48dp</dimen>
+
+    <dimen name="btn_radius">5dip</dimen>
+
+    <dimen name="rc_popup_dialog_distance_to_edge">40dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size_biger">20sp</dimen>
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_nomarl">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+</resources>
